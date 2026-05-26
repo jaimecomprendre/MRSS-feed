@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Auto Signage Feed</title>
+    <item>
+        <title>Image1.jpg</title>
+        <pubDate>2024-01-01T00:00:00.000z</pubDate>
+        <link>http://192.168.0.3:8000/signage/media/Image1.jpg</link>
+        <description>Image1.jpg</description>
+        <guid isPermalink="false">image1001</guid>
+        <media:content url="http://192.168.0.3:8000/signage/media/Image1.jpg" fileSize="7422796" type="image/jpeg" medium="image" duration="10"/>
+    </item>
+</channel>
+</rss>
