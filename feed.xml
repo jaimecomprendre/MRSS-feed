@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
 <channel>
-  <title>Auto Signage Feed</title>
-  <item>
-    <title>Image1.jpg</title>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-    <link>https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg</link>
-    <guid isPermalink="false">image1001</guid>
-    <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg" fileSize="7422796" type="image/jpeg" medium="image" duration="10"/>
-  </item>
+    <title>Auto Signage Feed</title>
+
+    <item>
+        <title>Image1.jpg</title>
+
+        <link>
+            https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg
+        </link>
+
+        <description>
+            https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg
+        </description>
+
+        <guid isPermaLink="false">
+            image1001
+        </guid>
+
+        <medium>image</medium>
+
+        <media:content
+            url="https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg"
+            fileSize="7422796"
+            type="image/jpeg"
+            medium="image"
+            duration="10" />
+
+    </item>
+
 </channel>
 </rss>
