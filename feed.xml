@@ -5,6 +5,25 @@
     <title>Auto Signage Feed</title>
 
     <item>
+      <title>Image1.jpg</title>
+
+      <link>https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg</link>
+
+      <description>https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg</description>
+
+      <guid isPermaLink="false">image1001</guid>
+
+      <medium>image</medium>
+
+      <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg"
+                     fileSize="7422796"
+                     type="image/jpeg"
+                     medium="image"
+                     duration="10" />
+    </item>
+
+
+    <item>
       <title>Image2.jpg</title>
 
       <link>https://jaimecomprendre.github.io/MRSS-feed/media/Image2.jpg</link>
@@ -21,6 +40,8 @@
                      medium="image"
                      duration="10" />
     </item>
+
+
 
   </channel>
 </rss>
