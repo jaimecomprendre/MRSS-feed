@@ -18,8 +18,7 @@
       <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/Image1.jpg"
                      fileSize="7422796"
                      type="image/jpeg"
-                     medium="image"
-                     duration="10" />
+                     medium="image" />
     </item>
 
 
@@ -37,8 +36,7 @@
       <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/Image2.jpg"
                      fileSize="7422796"
                      type="image/jpeg"
-                     medium="image"
-                     duration="10" />
+                     medium="image" />
     </item>
 
 
